@@ -28,8 +28,8 @@ After this command is used, you can just use the `git push` and it will function
 
 ## Resources
 
-- [Git Config Documentation](https://git-scm.com/docs/git-fonfig)
+- [Git Push Documentation](https://git-scm.com/docs/git-push)
 
 ___
 
-[Back to home](../README.md)
+[Back to home](../README.md).md)

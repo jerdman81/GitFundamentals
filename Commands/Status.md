@@ -21,7 +21,7 @@ git status
 
 ## Resources
 
-- [Git Config Documentation](https://git-scm.com/docs/git-fonfig)
+- [Git Status Documentation](https://git-scm.com/docs/git-status)
 
 ___
 

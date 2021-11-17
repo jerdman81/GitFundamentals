@@ -14,8 +14,8 @@ If there is any upstream connection established, you can use `git pull` wihtout 
 
 ## Resources
 
-- [Git Config Documentation](https://git-scm.com/docs/git-fonfig)
+- [Git Pull Documentation](https://git-scm.com/docs/git-pull)
 
 ___
 
-[Back to home](../README.md)
+[Back to home](../README.md).md)

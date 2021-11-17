@@ -11,8 +11,8 @@ git clone https://github.com/ElevenfiftyAcademy/TerminalDungeon.git
 
 ## Resources
 
-- [Git Config Documentation](https://git-scm.com/docs/git-fonfig)
+- [Git Clone Documentation](https://git-scm.com/docs/git-clone)
 
 ___
 
-[Back to home](../README.md)
+[Back to home](../README.md)d)
