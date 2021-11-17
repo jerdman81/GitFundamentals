@@ -2,7 +2,7 @@
 
 Git is a version control system that allows up to track changes and commit them to history.
 
-Here is a growing collection of resources and helpful commands to konw when working with git.
+Here is a growing collection of resources and helpful commands to know when working with git.
 
 ## Git Commands
 

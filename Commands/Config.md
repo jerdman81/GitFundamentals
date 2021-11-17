@@ -5,8 +5,8 @@ When first setting up git, you'll need to work with the git config commands in o
 For examplle, your identity can be set up with commands such as:
 
 ```
-git config --global user.name "Jeff Erdman"
-git config --global user.email jerdman81@gmail.com
+git config --global user.name "Your Name"
+git config --global user.email your.email@gmail.com
 ```
 
 For more information, view the [first time git setup](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup) documentation.
@@ -17,4 +17,4 @@ For more information, view the [first time git setup](https://git-scm.com/book/e
 
 ___
 
-[Back to home](../README.md)
+[Back to home](../README.md))
