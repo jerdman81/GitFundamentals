@@ -8,5 +8,7 @@ Here is a growing collection of resources and helpful commands to konw when work
 
 - [git config](./Commands/Config.md)
 - [git init](./Commands/Init.md)
+- [git add](./Commands/Add.md)
+- [git commit](./Commands/Commit.md)
 
 
