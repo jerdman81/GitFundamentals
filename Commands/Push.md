@@ -32,4 +32,4 @@ After this command is used, you can just use the `git push` and it will function
 
 ___
 
-[Back to home](../README.md).md)
+[Back to home](../README.md)
